@@ -1,0 +1,7 @@
+,RECENCY_DAYS,RECENCY_DAYS,TOTAL_SESSIONS,TOTAL_SESSIONS,TOTAL_VIEWS,TOTAL_VIEWS,TOTAL_CARTS,TOTAL_CARTS,TOTAL_TXNS,TOTAL_TXNS
+,count,mean,count,mean,count,mean,count,mean,count,mean
+cluster_name,,,,,,,,,,
+Cluster 0: Older Inactive Casuals,23269,104.36,23269,1.2,23269,1.78,23269,0.04,23269,0.01
+Cluster 1: Recent Inactive Casuals,26720,36.96,26720,1.39,26720,2.04,26720,0.05,26720,0.02
+Cluster 2: Engaged Multi-Session Shoppers,10,45.9,10,106.4,10,481.0,10,26.8,10,22.3
+Cluster 3: Super VIP Power Buyers,1,0.0,1,138.0,1,2304.0,1,371.0,1,349.0

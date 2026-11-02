@@ -1,0 +1,16 @@
+OPTIONS (SKIP=1, ERRORS=50, BINDSIZE=10485760, READSIZE=10485760, ROWS=50000)
+LOAD DATA
+INFILE 'data/raw/events.csv'
+BADFILE 'logs/events.bad'
+DISCARDFILE 'logs/events.dsc'
+INTO TABLE stg_events
+TRUNCATE
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+    timestamp      INTEGER EXTERNAL,
+    visitorid      INTEGER EXTERNAL,
+    event          CHAR(20),
+    itemid         INTEGER EXTERNAL,
+    transactionid  INTEGER EXTERNAL NULLIF transactionid=BLANKS
+)

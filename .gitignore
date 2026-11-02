@@ -1,0 +1,26 @@
+# Raw and heavy datasets
+data/raw/
+data/prepared/
+*.zip
+
+# Exclude raw CSVs but keep processed output exports for Power BI
+*.csv
+!outputs/*.csv
+
+# Oracle Loader logs, bad files, discard files
+*.log
+*.bad
+*.dsc
+logs/
+
+# Python & Jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# Environment and sensitive keys
+.env
+*.env

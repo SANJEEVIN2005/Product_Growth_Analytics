@@ -1,0 +1,6 @@
+SEGMENT_NAME,VISITOR_COUNT,PCT_OF_VISITORS,AVG_RECENCY_DAYS,AVG_SESSIONS,AVG_VIEWS,AVG_CARTS,AVG_TXNS,TOTAL_ORDERS,PCT_OF_ORDERS,STRATEGIC_ACTION,SUCCESS_METRIC
+VIP Power Buyers (>=2 Orders),2576,0.18,61.1,7.76,48.57,6.81,5.17,13314,59.29,Dedicated VIP Concierge & Bulk Volume Pricing Tier,60-Day Repeat Order Frequency & LTV
+Converted One-Time Buyers,9143,0.65,66.4,2.49,6.08,1.08,1.0,9143,40.71,Automated 14-Day Post-Purchase Cross-Sell Campaign,30-Day Second-Purchase Rate
+High-Intent Cart Abandoners,27120,1.93,66.5,1.95,4.97,1.51,0.0,0,0.0,Triggered 2-Hour Cart Recovery Email + Free Shipping Push,Cart Recovery Checkout Rate
+Catalog Explorers (>=3 Views),170577,12.12,66.0,2.3,5.41,0.0,0.0,0,0.0,Personalized Category Recommendations & Price-Drop Alerts,View-to-Cart Conversion Rate
+Bounced Window Shoppers (1-2 Views),1198101,85.12,69.2,1.06,1.17,0.0,0.0,0,0.0,Landing Page Dynamic Onboarding & Trending Product Carousels,Exploration Activation Rate (>=3 views)
