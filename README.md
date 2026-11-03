@@ -247,14 +247,3 @@ python scripts/run_nl_sql_eval.py
 streamlit run app/streamlit_app.py
 ```
 
----
-
-## 💼 Quantified Resume Bullets (For Product Data Analyst Roles)
-
-Here are three high-impact, quantified bullet points tailored for Product Data Analyst and Growth Analyst resumes:
-
-> - **Product Growth & Funnel Optimization:** Engineered a 30-minute inactivity sessionizer and full-funnel conversion model in **Oracle SQL** across **2.73M clean clickstream events**; isolated a **97.3% View-to-Cart drop-off** and proved returning visitor sessions deliver a **3.64x conversion multiplier** (1.95% vs. 0.54% CVR), authoring an executive decision memo projecting **+1,350 to +2,170 incremental orders (+7.7% to +12.3% net growth)** via automated cart recovery.
->
-> - **Controlled Experimentation & Pacing (A/B Testing):** Designed and executed an end-to-end A/B testing framework on **90.2K users** (power analysis, Chi-Square SRM check, two-proportion z-test, 10,000-sample bootstrap); proved with **99.93% statistical certainty** that delaying a progression gate caused a **-4.30% relative degradation in 7-day retention** ($p = 0.0016$) with zero engagement gain, successfully defending a **Do-Not-Ship** recommendation to protect player lifetime value.
->
-> - **Enterprise BI & AI Ask-Your-Data Layer:** Architected a 4-page executive **Power BI** dashboard with custom DAX metric models tracking North Star **Weekly Purchasing Visitors (WPV)** and customer concentration (0.18% of VIPs driving 59.3% of orders); built a **Streamlit** natural language querying layer connected to Oracle XE with a **3-layer defense-in-depth security model** (RBAC, AST keyword filter, 12-table allowlist, row capping), achieving **100% operational accuracy** and a **100% adversarial block rate** across 25 benchmark test cases.
