@@ -1,9 +1,6 @@
 # Power BI Executive Dashboard: End-to-End Build Guide
 **Project:** Product Growth Analytics: Funnel, Retention and Experimentation  
-**Author / Candidate:** Final-Year Computer Science & Product Data Analyst Candidate  
-**Target Audience:** VP of Product, Head of Growth, Lead Product Managers  
 **Data Sources:** Oracle 21c XE (`GROWTH_USER` Schema) & Curated Stage Outputs (`outputs/*.csv`)  
-**Design System:** 16:9 Aspect Ratio (1280 x 720 or 1920 x 1080), Clean Minimalist Tech Theme (`#1E293B` Slate Primary, `#0EA5E9` Growth Blue, `#10B981` Conversion Green, `#F59E0B` Amber Warning, `#EF4444` Churn/Drop Coral).
 
 ---
 
